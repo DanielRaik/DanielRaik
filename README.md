@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Daniel Ribeiro Salvador</h1>
-<h3 align="center">Sou um desenvolvedor front-end apaixonado por criar experiências digitais que fazem a diferença.</h3>
+<h3 align="center">Sou um desenvolvedor Web apaixonado por criar experiências digitais que fazem a diferença.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielraik&label=Profile%20views&color=0e75b6&style=flat" alt="danielraik" /> </p>
 
