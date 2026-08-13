@@ -57,23 +57,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DanielRaik/DanielRaik/output/breakout-contribution-graph-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DanielRaik/DanielRaik/output/breakout-contribution-graph.svg"
-  >
-  <img
-    alt="breakout contribution graph"
-    src="https://raw.githubusercontent.com/DanielRaik/DanielRaik/output/breakout-contribution-graph.svg"
-  >
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielRaik/DanielRaik/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielRaik/DanielRaik/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanielRaik/DanielRaik/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
